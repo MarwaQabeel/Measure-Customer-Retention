@@ -1,6 +1,7 @@
 # Customer Retention
 
-This is my demonstration to measure customer retention, based on the methods that were mentioned in this medium article ↓
+This is my demonstration to measure customer retention, based on the methods
+that were mentioned in this medium article ⬇️
 
 [How To Calculate Customer Retention Rate — A Practical Approach](https://towardsdatascience.com/how-to-calculate-customer-retention-rate-a-practical-approach-1c97709d495f)
 
